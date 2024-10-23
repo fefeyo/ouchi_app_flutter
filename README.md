@@ -1,16 +1,9 @@
-# ouchi_app
-
-A new Flutter project.
+# おうちアプリ
+家庭用在庫管理アプリです。
+GoogleSpreadSheetsで管理されている在庫情報の表示、購入フラグの送受信が行えます。
+複数人以上住んでいる家且つ非エンジニアが存在する想定でこのアプリは作られています。
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+テンプレートを元にGoogleSpreadSheetsを作成します。
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
